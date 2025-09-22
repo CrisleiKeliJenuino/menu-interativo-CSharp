@@ -1,0 +1,15 @@
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\menu-interativo-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\menu-interativo-CSharp.AssemblyInfoInputs.cache
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\menu-interativo-CSharp.AssemblyInfo.cs
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\menu-interativo-CSharp.csproj.CoreCompileInputs.cache
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\menu-interativo-CSharp.sourcelink.json
+D:\GITHUB\menu-interativo-CSharp\bin\Debug\net8.0\menu-interativo-CSharp.exe
+D:\GITHUB\menu-interativo-CSharp\bin\Debug\net8.0\menu-interativo-CSharp.deps.json
+D:\GITHUB\menu-interativo-CSharp\bin\Debug\net8.0\menu-interativo-CSharp.runtimeconfig.json
+D:\GITHUB\menu-interativo-CSharp\bin\Debug\net8.0\menu-interativo-CSharp.dll
+D:\GITHUB\menu-interativo-CSharp\bin\Debug\net8.0\menu-interativo-CSharp.pdb
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\menu-interativo-CSharp.dll
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\refint\menu-interativo-CSharp.dll
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\menu-interativo-CSharp.pdb
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\menu-interativo-CSharp.genruntimeconfig.cache
+D:\GITHUB\menu-interativo-CSharp\obj\Debug\net8.0\ref\menu-interativo-CSharp.dll
