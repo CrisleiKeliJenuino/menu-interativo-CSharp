@@ -1,19 +1,23 @@
-# Menu Interativo em C#
+# 🖥️ Menu Interativo em C#
 
-Este projeto é um exemplo simples de **menu interativo** desenvolvido em **C#**. Ele permite ao usuário escolher opções para cadastrar, buscar, apagar clientes ou encerrar o programa.
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
 
----
-
-## Funcionalidades
-
-- Exibir um menu de opções interativo.
-- Permitir cadastrar, buscar ou apagar clientes (simulação).
-- Encerrar o programa de forma segura.
-- Tratar opções inválidas digitadas pelo usuário.
+Este projeto é um exemplo simples de **menu interativo** desenvolvido em **C#**. Ele permite que o usuário escolha opções para **cadastrar**, **buscar**, **apagar clientes** ou **encerrar o programa**.
 
 ---
 
-## Como Executar
+## ✨ Funcionalidades
+
+- 📝 Exibe um menu de opções interativo.  
+- 👤 Cadastro de clientes (simulação).  
+- 🔍 Busca de clientes (simulação).  
+- ❌ Apaga clientes (simulação).  
+- ✅ Encerra o programa de forma segura.  
+- ⚠️ Valida opções inválidas digitadas pelo usuário.
+
+---
+
+## 🚀 Como Executar
 
 1. Clone o repositório:  
    ```bash
