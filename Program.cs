@@ -1,4 +1,4 @@
-﻿string opcao = "0";
+﻿string opcao;
 bool exibirMenu = true;
 
 while (exibirMenu)
