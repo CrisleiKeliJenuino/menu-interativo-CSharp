@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("menu-interativo-CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b66ac18cfa37e09693f2b92183fe4bd43eb986")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60401b7d34f4ec6598555ab3e8405d43fa9efdc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("menu-interativo-CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("menu-interativo-CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
